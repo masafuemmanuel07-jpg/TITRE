@@ -1,11 +1,11 @@
-I've changed the Unicode styling to a more aggressive CYPHER X theme, using cyberpunk symbols, sharp borders, and futuristic typography. All keys, categories, and command names remain unchanged.
+
 
 javascript
 
 ```javascript
 
 export default Object.freeze({
-  botTitle: "⟦ ⚡ C Y P H E R  X ⟧",
+  botTitle: "⟦ TITANIUM T ⟧",
   menu: {
     top: "╔═══〔 ",
     titleEnd: " 〕═══◈",
